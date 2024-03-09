@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
+# Author: Madhuri
 
 Default Welcome Intent
 ======================
